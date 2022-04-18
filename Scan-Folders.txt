@@ -1,0 +1,7 @@
+- net6.0 (172019 bytes)
+-- Scan-Folders.deps.json (428 bytes)
+-- Scan-Folders.dll (9728 bytes)
+-- Scan-Folders.exe (148992 bytes)
+-- Scan-Folders.pdb (12476 bytes)
+-- Scan-Folders.runtimeconfig.json (147 bytes)
+-- sizes-2022-04-18.txt (248 bytes)
