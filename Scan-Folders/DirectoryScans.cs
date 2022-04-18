@@ -150,7 +150,8 @@ namespace DirectoryScans
                 string new_output = Console.ReadLine();
                 if (Directory.Exists(new_output))
                 {
-                    output_file = new_output+".txt";
+                    DateTime date = DateTime.Now;
+                    output_file = new_output + "\\sizes-" + date.ToString("yyyy-MM-dd") + ".txt";
                 }
                 else
                 {
